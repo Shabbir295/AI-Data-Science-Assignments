@@ -9,11 +9,17 @@ The goal of this repository is to learn concepts practically through code, exerc
 📚 Learning Roadmap
 
 🐍 01 — Python
+
 Variables & Data Types
+
 Input & Output
+
 Operators
+
 Conditional Statements
+
 Loops
+
 Functions
 Strings
 Lists
